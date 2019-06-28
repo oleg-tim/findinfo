@@ -25,8 +25,7 @@ SECRET_KEY = 't&*@20f66pavbngw1_+$rijkp++$-dcbr9(0w)m-&6c#3x!-qx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'searchmagic.pythonanywhere.com']
-
+ALLOWED_HOSTS = ['127.0.0.1',  'searchmagic.pythonanywhere.com']
 
 # Application definition
 
